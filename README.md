@@ -51,6 +51,18 @@ Setting up a development environment for teaching dbt core using BigQuery
          project: <GCP project id> # find from Notion
          threads: 10
          type: bigquery
+
+       production:
+         dataset: production
+         job_execution_timeout_seconds: 300
+         job_retries: 1
+         location: US
+         method: oauth
+         priority: interactive
+         project: <GCP project id> # find from Notion
+         threads: 10
+         type: bigquery
+
    ```
 
 6. **Open the Project in VS Code**  
