@@ -56,7 +56,7 @@ Setting up a development environment for teaching dbt core using BigQuery
 6. **Open the Project in VS Code**  
    Open Visual Studio Code and navigate to the project directory:
    ```bash
-   cd dbt-breakout
+   cd dbt_breakout
    ```
 
 7. **Rebuild the Dev Container**  
