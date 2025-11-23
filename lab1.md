@@ -2,8 +2,6 @@
 
 1. Dive into how source and refs work
 
-2. Explain how a macro to add a limit clause works
+2. How to use a macro (cents to dollars)
 
-3. Add a control structure
-
-4. Add an iterator (rolling metrics)
+3. Macro with a control structure (limit data in dev)
