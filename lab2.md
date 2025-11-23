@@ -1,7 +1,7 @@
 # To-do
 
 1. Bring it all together
-    - Lab 0: How to move inside a dbt repo and basic commands
+    - Lab 0: How to move inside a dbt repo,basic commands and developer workflow
     - Lab 1: How to create blocks (macro/models)
     - Lab 2: How to integrate other blocks!
 
