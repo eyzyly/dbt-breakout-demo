@@ -8,3 +8,5 @@ select
     created as created_at
 
 from {{ source('stripe', 'payment') }}
+WHERE
+    {{ limit_data_in_dev('created', 10,'2018-04-09') }}
