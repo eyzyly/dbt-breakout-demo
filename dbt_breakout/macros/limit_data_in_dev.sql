@@ -1,5 +1,6 @@
 -- 🧩 Interactive Exercise: Limiting Data in Development
 -- You are looking at the stg_payments model.
+-- In production use case, we would use today or current date for teaching purpose, we are using a fixed date.
 -- Below are guiding questions to help you decide how to use the `limit_data_in_dev` macro.
 --
 -- 1. Which environment should have limited data?
