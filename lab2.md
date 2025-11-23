@@ -3,7 +3,7 @@
 1. Bring it all together
     - Lab 0: How to move inside a dbt repo and basic commands
     - Lab 1: How to create blocks (macro/models)
-    - Lab 2: How to use integrate other blocks!
+    - Lab 2: How to integrate other blocks!
 
 2. What is a dbt package?
     - Lets check out: https://hub.getdbt.com/
