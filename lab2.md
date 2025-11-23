@@ -14,6 +14,8 @@
     - dealing with schema changes with union relations!
 
 4. dbt_codegen:
-    - generate model
+    - generate model yaml
+    - get descriptions to appear in datasets
+
 
     
