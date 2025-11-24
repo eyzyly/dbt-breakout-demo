@@ -1,5 +1,8 @@
 # To-do
 
+Create a new Branch from lab1-jinja-macros: lab1-jinja-macros-github_username
+PR to main
+
 1. Dive into how source and refs work
 
 2. How to use a macro (cents to dollars)

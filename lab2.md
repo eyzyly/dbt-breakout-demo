@@ -1,5 +1,8 @@
 # To-do
 
+Create a new Branch from lab2-packages: lab2-packages-github_username
+PR to main
+
 1. Bring it all together
     - Lab 0: How to move inside a dbt repo,basic commands and developer workflow
     - Lab 1: How to create blocks (macro/models)
