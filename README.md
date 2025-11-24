@@ -48,7 +48,7 @@ Setting up a development environment for teaching dbt core using BigQuery
          location: US
          method: oauth
          priority: interactive
-         project: <GCP project id> # find from Notion
+         project: <GCP project id>
          threads: 10
          type: bigquery
 
@@ -59,7 +59,7 @@ Setting up a development environment for teaching dbt core using BigQuery
          location: US
          method: oauth
          priority: interactive
-         project: <GCP project id> # find from Notion
+         project: <GCP project id>
          threads: 10
          type: bigquery
 
@@ -77,8 +77,8 @@ Setting up a development environment for teaching dbt core using BigQuery
 8. **Wait for Installation**  
    Wait for the installation to complete. This may take a few minutes, and you should see a message saying "Done, press any key to go to the terminal."
 
-9. **Restart VS Code**  
-   Although it may seem strange, close the VS Code window and open it again.
+9. **Restart VS Code/Codespace**  
+   Although it may seem strange, close the VS Code window/Codespace and open it again.
 
 10. **Reopen the Project in the Container**  
     Go to the project directory again. A "Reopen in Container" prompt should appear. Click it!
