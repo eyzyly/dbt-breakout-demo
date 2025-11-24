@@ -1,0 +1,1 @@
+-- Implement the star function and exclude the source column
